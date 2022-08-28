@@ -3,6 +3,8 @@ Resources relating to the UCLA control course and STEVAL-EDUKIT101 inverted pend
 
 https://sites.google.com/view/ucla-st-motor-control/home
 
+https://youtu.be/L4WKp5diTko
+https://youtu.be/99D4PjMOkks
 
 https://github.com/topics/control?l=c&o=desc&s=updated
 https://skill-lync.com/student-projects/Simulation-of-Simple-Pendulum-with-Damping-using-Octave-49331
